@@ -1,16 +1,14 @@
-### Hi there 👋
+### Oi! 👋
 
-<!--
-**JuniorGildo/juniorgildo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Hermenegildo Junior, Analista de Suporte.
 
-Here are some ideas to get you started:
+- 📍Fortaleza (CE)
+- 🎓 Graduação 5 Semestre Redes e Computadores (Fatene)
+- 💻 Cursos Fundamentos de Java Basico
+-     Linguagem SQL
+-     Logica de Programação
+-     Servidores Windows
+      Nocões basica em Linux,
+      Banco de Dados Postgres,Firebird e SQL Server 
+- 📰 Trabalho como analista de Suporte a 13 anos em uma empresa automação de Posto de Gasolina (ACS INFORMATICA)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
