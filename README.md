@@ -2,6 +2,15 @@
 
 
 Analista de Suporte </br>
+📜 Cursos:       
+    Formação Desenvolvedor Full Stack na Digital College (https://www.digitalcollege.com.br/)
+    Java Basico 
+    Linguagem SQL 
+    Tecnico 
+
+
+
+
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/juniorgildo?color=00acee&label=juniorgildo&logo=twitter&logoColor=00acee&style=for-the-badge)](https://twitter.com/juniorgildo/)
 [![LinkedIn](https://shields.io/badge/LinkedIn-juniorgildo-0e76a8?logo=LinkedIn&logoColor=0e76a8&style=for-the-badge)](https://www.linkedin.com/in/juniorgildo/)
@@ -9,13 +18,12 @@ Analista de Suporte </br>
 
 ### Sobre mim:
 
-- 📍  Moro em Fortaleza 
+- 🌎 Moro em Fortaleza 
 - 🎓 5 Semestre Redes e Computadores (FATENE)
-- 💻 Curso MBA em Jornalismo de Dados no Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa (IDP)
-- 🤓 Estou fazendo o Curso de Formação Desenvolvedor Full Stack na Digital College
-- 📰 Trabalho como repórter na Central de Jornalismo de Dados do Jornal **O POVO** (DATADOC)
-- 🗓 Já fui repórter do núcleo de Cotidiano — janeiro de 2020 a março de 2022 — e do Labeta, Estúdio de Branded Content do **O POVO** — abril de 2017 a janeiro de 2020
-
+- 💻 Trabalho com Analista de Suporte a 8 anos em automação comercial no ramo (Posto de Gasolina) (www.acssoft.com.br)
+- 📰 Ja trabalhei como Analista de Suporte por 5 anos na Casa Magalhães no ramo de automacão para Varejo
+                                                                                                                 
+                                                                                                                 
 ### Meus commits:
 
 
