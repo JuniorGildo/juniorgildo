@@ -3,25 +3,24 @@
 
 Analista de Suporte </br>
 📜 Cursos:       
-    Formação Desenvolvedor Full Stack na Digital College (https://www.digitalcollege.com.br/)
-    Java Basico 
-    Linguagem SQL 
-    Tecnico 
-
-
-
+    Formação Desenvolvedor Full Stack na Digital College (https://www.digitalcollege.com.br/)</br>
+    Java Basico (SoftBlue) </br> 
+    Lógica de Programação (SoftBlue) </br>
+    SQL Completo  (SoftBlue)</br>
+    PSQL (Mqfs)</br>
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/juniorgildo?color=00acee&label=juniorgildo&logo=twitter&logoColor=00acee&style=for-the-badge)](https://twitter.com/juniorgildo/)
 [![LinkedIn](https://shields.io/badge/LinkedIn-juniorgildo-0e76a8?logo=LinkedIn&logoColor=0e76a8&style=for-the-badge)](https://www.linkedin.com/in/juniorgildo/)
-[![Instagram](https://shields.io/badge/Instagram-juniorgildo-517fa4?logo=Instagram&logoColor=517fa4&style=for-the-badge)](https://www.instagram.com/in/juniorgildo/)
+[![Instagram](https://shields.io/badge/Instagram-juniorgildo-517fa4?logo=Instagram&logoColor=517fa4&style=for-the-badge)](https://www.instagram.com/juniorgildo/)
 
 ### Sobre mim:
 
 - 🌎 Moro em Fortaleza 
 - 🎓 5 Semestre Redes e Computadores (FATENE)
-- 💻 Trabalho com Analista de Suporte a 8 anos em automação comercial no ramo (Posto de Gasolina) (www.acssoft.com.br)
+- 💻 Trabalho como Analista de Suporte a 8 anos em automação no ramo (Posto de Gasolina) (www.acssoft.com.br)
 - 📰 Ja trabalhei como Analista de Suporte por 5 anos na Casa Magalhães no ramo de automacão para Varejo
+- 🏦 Conhecimentos Intermediarios em Banco de Dados Firebird,Postgres e Sql Server
                                                                                                                  
                                                                                                                  
 ### Meus commits:
