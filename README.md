@@ -14,11 +14,15 @@
 
 ### Sobre mim 🎯
 
-✓ 🌎 Moro em Fortaleza </br>
+✓ 🌎 Moro em Fortaleza, tenho 37 anos  </br>
 ✓ 🎓 5 Semestre Redes e Computadores (FATENE) </br>
-✓ 💻 Trabalho como Analista de Suporte a 8 anos em automação no ramo (Posto de Gasolina) (www.acssoft.com.br) </br>
-✓ 📰 Ja trabalhei como Analista de Suporte por 5 anos na Casa Magalhães no ramo de automacão para Varejo </br>
-✓ 🏦 Conhecimentos Intermediarios em Banco de Dados Firebird,Postgres e Sql Server </br>
+✓ 💻 Trabalho como Analista de Suporte a 13 anos em automações nos ramos (Posto de Combustivel e Varejista)  </br>
+
+### Conhecimentos & Ferramentas 💻
+![Firebird](https://img.shields.io/badge/-Firebird-eeac0f?style=flate-square&logo=Firebird&logoColor=white) &nbsp; </br>
+![Postgres](https://img.shields.io/badge/-Postgres-008bb9?style=flate-square&logo=PostGres&logoColor=white) &nbsp; </br>
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-DD4814?style=flate-square&logo=Ubuntu&logoColor=white) &nbsp; </br>
+![Windows](https://img.shields.io/badge/-Windows-007BD7?style=flate-square&logo=windows&logoColor=white) &nbsp; </br>
                                                                                                                  
                                                                                                                  
 ### Status ⭐
