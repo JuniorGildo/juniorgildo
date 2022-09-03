@@ -19,8 +19,9 @@
 ✓ 💻 Trabalho como Analista de Suporte a 13 anos em automações nos ramos (Posto de Combustivel e Varejista)  </br>
 
 ### Conhecimentos & Ferramentas 💻
-![Firebird](https://img.shields.io/badge/-Firebird-eeac0f?style=flate-square&logo=Firebird&logoColor=white) &nbsp; </br>
-![Postgres](https://img.shields.io/badge/-Postgres-008bb9?style=flate-square&logo=PostGres&logoColor=white) &nbsp; </br>
+![MicrosoftSqlServer](https://img.shields.io/badge/-SqlServer-f1f1f1?style=flate-square&logo=MicrosoftSqlServer&logoColor=black) &nbsp; </br>
+![Firebird](https://img.shields.io/badge/-Firebird-eeac0f?style=flate-square&logo=firebirdsql.org&logoColor=white) &nbsp; </br>
+![Postgres](https://img.shields.io/badge/-Postgres-008bb9?style=flate-square&logo=PostGreSQL&logoColor=white) &nbsp; </br>
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-DD4814?style=flate-square&logo=Ubuntu&logoColor=white) &nbsp; </br>
 ![Windows](https://img.shields.io/badge/-Windows-007BD7?style=flate-square&logo=windows&logoColor=white) &nbsp; </br>
                                                                                                                  
