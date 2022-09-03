@@ -3,9 +3,10 @@
 
 Analista de Suporte </br>
 
+### Contato 🌐
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/juniorgildo?color=00acee&label=juniorgildo&logo=twitter&logoColor=00acee&style=for-the-badge)](https://twitter.com/juniorgildo/)
-[![LinkedIn](https://shields.io/badge/LinkedIn-juniorgildo-0e76a8?logo=LinkedIn&logoColor=0e76a8&style=for-the-badge)](https://www.linkedin.com/in/juniorgildo/)
+[![LinkedIn Badge](https://shields.io/badge/-JuniorGildo-blue?style=flate-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/j%C3%BAnior-gildo-729764214/)](https://www.linkedin.com/in/j%C3%BAnior-gildo-729764214/)
 [![Instagram juniorgildo Badge](https://img.shields.io/badge/Instagram-juniorgildo-6a0dad?style=for-the-badge&logo=instagram&logoColor=purple)](https://www.instagram.com/juniorgildo/)
 
 
