@@ -8,7 +8,7 @@
 
 [![LinkedIn Badge](https://shields.io/badge/-JúniorGildo-blue?style=flate-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/j%C3%BAnior-gildo-729764214/)](https://www.linkedin.com/in/j%C3%BAnior-gildo-729764214/) </br>
 [![Gmail Badge](https://shields.io/badge/-juniorcm1803@gmail.com-c14438?style=flate-square&logo=Gmail&logoColor=white&link=mailto:juniorcm1803@gmail.com)](mailto:juniorcm1803@gmail.com) </br>
-[![WhatsApp Badge](https://shields.io/badge/-85987200755-34af23?style=flate-square&logo=WhatsApp&logoColor=white&link=https://web.whatsapp.com/)](https://web.whatsapp.com/) </br>
+
 
 
 
