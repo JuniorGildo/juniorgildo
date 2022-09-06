@@ -24,7 +24,7 @@
 
 
 ### *Conhecimentos & Ferramentas* 💻
-![Linguangem SQL](https://img.shields.io/badge/-LinguangemSQL-f1f1f1??style=plastic&logo=MicrosoftSqlServer&logoColor=black) &nbsp;  </br>
+![Linguangem SQL](https://img.shields.io/badge/-LinguangemSQL-7CFC00??style=plastic&logo=MicrosoftSqlServer&logoColor=black) &nbsp;  </br>
 ![MicrosoftSqlServer](https://img.shields.io/badge/-SqlServer-f1f1f1?style=plastic&logo=MicrosoftSqlServer&logoColor=black) &nbsp; 
 ![Firebird](https://img.shields.io/badge/-Firebird-FF5733?style=plastice&logo=firefox&logoColor=white) &nbsp; 
 ![Postgres](https://img.shields.io/badge/-Postgres-008bb9?style=plastic&logo=PostGreSQL&logoColor=white) &nbsp; </br>
