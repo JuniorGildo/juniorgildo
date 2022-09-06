@@ -25,13 +25,13 @@
 
 ### *Conhecimentos & Ferramentas* 💻
 ![Linguangem SQL](https://img.shields.io/badge/-LinguangemSQL-7CFC00??style=plastic&logo=MicrosoftSqlServer&logoColor=black) &nbsp;  </br>
-![MicrosoftSqlServer](https://img.shields.io/badge/-SqlServer-f1f1f1?style=plastic&logo=MicrosoftSqlServer&logoColor=black) &nbsp; 
+![MicrosoftSqlServer](https://img.shields.io/badge/-SqlServer-FF0000?style=plastic&logo=MicrosoftSqlServer&logoColor=white) &nbsp; 
 ![Firebird](https://img.shields.io/badge/-Firebird-FF5733?style=plastice&logo=firefox&logoColor=white) &nbsp; 
 ![Postgres](https://img.shields.io/badge/-Postgres-008bb9?style=plastic&logo=PostGreSQL&logoColor=white) &nbsp; </br>
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-DD4814?style=plastic&logo=Ubuntu&logoColor=white) &nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-007BD7?style=plastic&logo=windows&logoColor=white) &nbsp; </br>
-![Redes](https://img.shields.io/badge/-Redes-007BD7?style=plastic&logo=wireless&logoColor=white) &nbsp; 
-![Hardware](https://img.shields.io/badge/-Hardware-007BD7?style=plastic&logo=hardware&logoColor=white) &nbsp; </br>
+![#Redes#](https://img.shields.io/badge/-Redes-f1f1f1?style=plastic&logo=wireless&logoColor=white) &nbsp; 
+![Hardware](https://img.shields.io/badge/-Hardware-f1f1f1?style=plastic&logo=hardware&logoColor=white) &nbsp; </br>
                                                                                                                  
                                                                                                                  
 ### *Status* ⭐
