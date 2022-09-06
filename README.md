@@ -1,7 +1,7 @@
 ## **Hermenegildo Júnior** <img alt="Coding Gif" src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b76118849e7b024333f0377101b6f9d71150022128261&rid=giphy.gif&ct=g" height="40" width="40" align="center"/>&nbsp;<br/> 
 
+"O começo da sabedoria é o silêncio"
 
-### Analista de Suporte 👨‍💻   </br>
 
 ### Contato 🌐
 
@@ -15,9 +15,12 @@
 ### Sobre mim 🎯
 
 ✓ 🌎 Moro em Fortaleza, tenho 37 anos  </br>
-✓ 🎓 5 Semestre Redes e Computadores (FATENE) </br>
-✓ 💻 Trabalho como Analista de Suporte a 13 anos com automações nos ramos (Posto de Combustivel e Varejista)  </br>
-✓ 🧑‍💻 Cursando Full Stack 
+✓ 🎓 5 Semestre Redes e Computadores  </br>
+✓ 💻 Trabalho como Analista de Suporte   </br>
+✓ 👨‍💻 Estudando Full Stack </br>
+✓  Adoro Futebol + Familia </br>
+
+
 
 ### Conhecimentos & Ferramentas 💻
 ![MicrosoftSqlServer](https://img.shields.io/badge/-SqlServer-f1f1f1?style=flate-square&logo=MicrosoftSqlServer&logoColor=black) &nbsp; 
