@@ -1,15 +1,10 @@
 ## *Linus Benedict Torvalds* <img alt="Coding Gif" src="https://thumbs.gfycat.com/UnevenSomberGalapagossealion.webp?id=s2s53807#gsc.tab=0?cid=790b76118849e7b024333f0377101b6f9d71150022128261&rid=giphy.gif&ct=g" height="40" width="40" align="center"/>&nbsp;<br/> 
-*"O começo da sabedoria é o silêncio"* <br>
 
-### *Contato* 🌐 
+[![Screenshot-5.png](https://i.postimg.cc/65NSY0VD/Screenshot-5.png)](https://postimg.cc/K4JJYtHN) <br/> 
+ 
+*"O começo da sabedoria é o silêncio"* </br>
 
-[![ LinkedIn Badge ](https://shields.io/badge/-JúniorGildo-blue?style=flate-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/j%C3%BAnior-gildo-729764214/)](https://www.linkedin.com/in/j%C3%BAnior-gildo-729764214/) </br>
-[![ Gmail ](https://shields.io/badge/-juniorcm1803@gmail.com-c14438?style=flate-square&logo=Gmail&logoColor=white&link=mailto:juniorcm1803@gmail.com)](mailto:juniorcm1803@gmail.com) </br>
-
-
-
-
-### *Biografia* 🎯 
+### <img alt="Design Gif" src="https://media.giphy.com/media/povenlBAIz14s/giphy.gif" height="45" align="center"/>&nbsp;*Biografia* 🎯 
 ✓ 🌎 *Moro em Fortaleza, tenho 37 anos*   </br>
 ✓ 🎓 *5° Semestre Redes e Computadores*   </br>
 ✓ 💻 *Trabalho como Analista de Suporte*   </br>
