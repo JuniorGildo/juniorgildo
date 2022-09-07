@@ -1,4 +1,4 @@
-## *Linus Torvalds* <img alt="Coding Gif" src="https://www.animatedimages.org/data/media/1618/animated-tux-image-0058.gif?id=s2s53807#gsc.tab=0?cid=790b76118849e7b024333f0377101b6f9d71150022128261&rid=giphy.gif&ct=g" height="40" width="40" align="center"/>&nbsp;<br/> 
+## *Linus Benedict Torvalds* <img alt="Coding Gif" src="https://thumbs.gfycat.com/UnevenSomberGalapagossealion.webp?id=s2s53807#gsc.tab=0?cid=790b76118849e7b024333f0377101b6f9d71150022128261&rid=giphy.gif&ct=g" height="40" width="40" align="center"/>&nbsp;<br/> 
 *"O começo da sabedoria é o silêncio"* <br>
 
 ### *Contato* 🌐 
