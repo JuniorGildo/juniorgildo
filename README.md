@@ -7,7 +7,7 @@
 
 
 [![Linux Badge](https://shields.io/badge/-Linux-0076a3?style=flate-square&logo=Linux&logoColor=white&link=https://www.linux.org/pages/download/)](https://www.linux.org/pages/download/) </br>
-[![Gmail Badge](https://shields.io/badge/-juniorcm1803@gmail.com-c14438?style=flate-square&logo=Gmail&logoColor=white&link=mailto:juniorcm1803@gmail.com)](mailto:juniorcm1803@gmail.com) </br>
+[![Git Badge](https://shields.io/badge/-Git-c14438?style=flate-square&logo=Git&logoColor=white&link=mailto:juniorcm1803@gmail.com)](mailto:juniorcm1803@gmail.com) </br>
 
 
 
