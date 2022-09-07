@@ -1,7 +1,7 @@
-## *Linus Torvalds* <img alt="Coding Gif" src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b76118849e7b024333f0377101b6f9d71150022128261&rid=giphy.gif&ct=g" height="40" width="40" align="center"/>&nbsp;<br/> 
+## *Linus Torvalds* <img alt="Coding Gif" src="https://www.animatedimages.org/data/media/1618/animated-tux-image-0058.gif?id=s2s53807#gsc.tab=0?cid=790b76118849e7b024333f0377101b6f9d71150022128261&rid=giphy.gif&ct=g" height="40" width="40" align="center"/>&nbsp;<br/> 
 *"O começo da sabedoria é o silêncio"* <br>
 
-### *Contato* 🌐
+### *Contato* 🌐 
 
 [![ LinkedIn Badge ](https://shields.io/badge/-JúniorGildo-blue?style=flate-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/j%C3%BAnior-gildo-729764214/)](https://www.linkedin.com/in/j%C3%BAnior-gildo-729764214/) </br>
 [![ Gmail ](https://shields.io/badge/-juniorcm1803@gmail.com-c14438?style=flate-square&logo=Gmail&logoColor=white&link=mailto:juniorcm1803@gmail.com)](mailto:juniorcm1803@gmail.com) </br>
