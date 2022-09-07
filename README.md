@@ -1,4 +1,4 @@
-## *Linus Benedict Torvalds* <img alt="Coding Gif" src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b76118849e7b024333f0377101b6f9d71150022128261&rid=giphy.gif&ct=g" height="40" width="40" align="center"/>&nbsp;<br/> 
+## *Linus Benedict Torvalds* <img alt="Coding Gif" src=""https://giphy.com/embed/4N5ddOOJJ7gtKTgNac=giphy.gif&ct=g" height="40" width="40" align="center"/>&nbsp;<br/>
 
 *"Inteligência é a habilidade de evitar fazer o trabalho, e mesmo assim conseguir ter o trabalho realizado"*
 
