@@ -1,6 +1,6 @@
 # *Linus Benedict Torvalds* <img alt="Coding Gif" src="https://thumbs.gfycat.com/UnevenSomberGalapagossealion.webp?id=s2s53807#gsc.tab=0?cid=790b76118849e7b024333f0377101b6f9d71150022128261&rid=giphy.gif&ct=g" height="40" width="40" align="center"/>&nbsp;<br/> 
 
-[![Screenshot-5.png](https://i.postimg.cc/4yJBz8VG/Screenshot-5.png)](https://git-scm.com/) <br/>
+[![Screenshot-5.png](https://i.postimg.cc/4yJBz8VG/Screenshot-5.png)](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-O-B%C3%A1sico-do-Git/) <br/>
  
 *"O começo da sabedoria é o silêncio"* </br>
 
