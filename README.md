@@ -13,7 +13,7 @@
 ✓ 🌎 *Moro em Fortaleza, tenho 37 anos*   </br>
 ✓ 🎓 *5° Semestre Redes e Computadores*   </br>
 ✓ 💻 *Trabalho como Analista de Suporte*   </br>
-✓ 👨‍💻 *Estudando Full Stack* </br>
+✓ 👨‍💻 *Estudando Programação Full Stack* </br>
 ✓ ⚽ *Adoro Futebol,* 👪 *Família* </br>
 ✓ *e* 👨‍💻 *Tecnologia* </br>
 
