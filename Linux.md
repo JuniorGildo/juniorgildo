@@ -12,11 +12,11 @@ Lançado em 1991 ,onde informava que a disponibilizar o código-fonte e contava 
 
 <a href='https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Uma-Breve-Hist%C3%B3ria-do-Git' target='blank'><img src='https://i.postimg.cc/4yJBz8VG/Screenshot-5.png' height="240px" width="310,16px" align="left" alt='Screenshot-5'/></a>
 
-# *O segundo ato*
+# *O segundo ato*  <img alt="Coding Gif" src="
+ https://i.pinimg.com/originals/f7/21/c5/f721c5ff45edd5fb0280c4926dbf75af.gi" height="60" width="60" align="center"/>&nbsp;
 *Em 2005, a empresa parceira pelo desenvolvimento do nucleo do Linux BitKeeper quebrou em pedaços, e a ferramenta passou a ser paga. Isso provocou a comunidade que desenvolvia o Linux (e especialmente Linux Torvalds, o criador do Linux) a desenvolver a sua própria ferramenta em 2005. <img alt="Coding Gif" src="https://i.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" height="80" width="100" align="center"/>&nbsp;  evoluiu e amadureceu para ser fácil de usar e ainda reter essas qualidades iniciais. Ele é incrivelmente rápido, é muito eficiente com projetos grandes, e ele tem um incrível sistema de ramos para desenvolvimento não linear.*
 
-
-                                                                                                                 
+f                                                                                                                
                                                                                                                  
 
 
