@@ -1,7 +1,7 @@
 # *Linus Benedict Torvalds* 
 
 # *A Origem* <img alt="Coding Gif" src="https://media4.giphy.com/media/2uIlejpr8ZxenICZSN/giphy.gif?cid=ecf05e4764so4a6m33kcm480sn0kl9wmw0x4xjxm86p74hju&rid=giphy.gif&ct=g" height="60" width="60" align="center"/>&nbsp;
-*Nasceu em Helsínquia, na Finlândia em 1969. Filho dos jornalistas Anna e Nils Torvalds,[6] e neto do estatístico Leo Törnqvist e do poeta Ole Torvalds. Seus pais eram radicais do campus da Universidade de Helsínquia, na década de 1960. Sua família pertence à minoria de língua sueca (5,5 % da população da Finlândia). Seu interesse por computadores começou com um Commodore VIC-20. Nessa época, ele ficou conhecido por ter escrito um clone do Pac-Man chamado Cool Man*
+*Nasceu em Helsínquia, na Finlândia em 1969. Filho dos jornalistas Anna e Nils Torvalds,[6] .Seu interesse por computadores começou com um Commodore VIC-20. Nessa época, ele ficou conhecido por ter escrito um clone do Pac-Man chamado Cool Man.Atualmente Engenheiro de Software*
 
 # *O primeiro ato* <img alt="Coding Gif" src="https://bnetcmsus-a.akamaihd.net/cms/gallery/l5/L5470RJHMX7A1493760981699.gif" height="60" width="60" align="center"/>&nbsp;
 <a href='https://www.infowester.com/historia_linux.php' target='blank'><img src='https://i.postimg.cc/dDXkbWWM/Screenshot-7.png' height="240px" width="310,16px" align="right" alt='Screenshot-7'/></a>
