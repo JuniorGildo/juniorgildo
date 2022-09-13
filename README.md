@@ -28,4 +28,4 @@
                                                                                                                  
                                                                                                                  
 ### *Status* ⭐
-[![juniorgildo's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorgildo&show_icons=true&count_private=true&theme=codeSTACKr&title_color=00acee&icon_color=FF0000)](https://github.com/juniorgildo)
+[![juniorgildo's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorgildo&show_icons=true&theme=codeSTACKr&title_color=00acee&icon_color=FF0000)](https://github.com/juniorgildo)
