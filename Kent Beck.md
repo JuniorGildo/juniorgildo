@@ -1,4 +1,4 @@
-#A sabedoria de Kent Beck e o que ela nos ensina sobre o valor econômico das ideias que você tem#
+A sabedoria de Kent Beck e o que ela nos ensina sobre o valor econômico das ideias que você tem#
 “Primeiro você aprende o valor da abstração, então você aprende o custo da abstração, e só então você estará pronto para construir” (Kent Beck).
 
 Essa declaração do Kent Beck é sobre design de código e arquitetura de software, e é de extrema importância para programadores. Mas estou certo de que ele pensava muito além do código quando a publicou. Com um pouco mais de reflexão em cima do que está dito, podemos extrair toda a sabedoria da frase e tirar lições muito valiosas para que gestores, líderes, designers de produto e demais profissionais do conhecimento entendam melhor o mundo, e como se relacionar com ele.
