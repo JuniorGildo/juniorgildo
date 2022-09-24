@@ -1,12 +1,11 @@
-# *Http Vs Https* <img alt="Coding Gif" src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?
-  cid=790b76118849e7b024333f0377101b6f9d71150022128261&rid=giphy.gif&ct=g" height="40" width="40" align="center"/>&nbsp;<br/>
+# *Http* <img alt="Coding Gif" src="https://www.netneedings.com/wp-content/uploads/2021/07/Net-Needing-Systems-SSL.gif?  cid=790b76118849e7b024333f0377101b6f9d71150022128261&rid=giphy.gif&ct=g" height="40" width="40" align="center"/>&nbsp;<br/>
 
-Primeiro vamos entender o que são esse protocolos,para depois podermos confrota-lo 
-O que é HTTPS?
-HTTPS é a sigla para Hypertext Transfer Protocol Secure. Assim como o HTTP, seu principal objetivo é transferir dados de um servidor para seu navegador, para que você possa carregar sites. <br/>
-No entanto, o HTTPS usa uma conexão criptografada para se comunicar entre o servidor e o navegador. Um certificado SSL (secure sockets layer) protege os dados transferidos de serem roubados à medida que são trocados. 
-O HTTPS foi criado em 1994, mas não foi amplamente usado como padrão até 2019. Sua popularidade se deve principalmente ao Google recomendar que os sites mudem para HTTPS em 2014. 
-Você também pode identificar HTTPS na barra de endereços do seu navegador (por exemplo, https://www.semrush.com ).
+*HTTPS é a sigla para Hypertext Transfer Protocol Secure. Assim como o HTTP, seu principal objetivo é transferir dados de um servidor para seu navegador, para que você possa carregar sites. <br/>*
+# *Https*
+*HTTPS usa uma conexão criptografada para se comunicar entre o servidor e o navegador. Um certificado SSL (secure sockets layer) protege os dados transferidos de serem roubados à medida que são trocados,criado em 1994, mas não foi amplamente usado como padrão até 2019. Sua popularidade se deve principalmente ao Google recomendar que os sites mudem para HTTPS em 2014,como podemos identificar HTTPS na barra de endereços do seu navegador (por exemplo, https://www.semrush.com ).*
+
+
+
 Qual é a diferença entre HTTP e HTTPS?
 Graças à sua conexão criptografada, o HTTPS é mais seguro que o HTTP. 
 A segurança do site é importante mesmo se você não tiver um site de comércio eletrônico ou um site que lide com dados confidenciais. Um site seguro protege seus clientes contra roubo de dados e protege seu site contra violações de segurança que custam tempo e dinheiro para serem corrigidas. 
