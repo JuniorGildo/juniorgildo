@@ -9,12 +9,11 @@ Assim, quando um usuário acessa ou digita a URL do seu site, o navegador cria u
 *HTTPS usa uma conexão criptografada para se comunicar entre o servidor e o navegador. Um certificado SSL (secure sockets layer) protege os dados transferidos de serem roubados à medida que são trocados,criado em 1994, mas não foi amplamente usado como padrão até 2019. Sua popularidade se deve principalmente ao Google recomendar que os sites mudem para HTTPS em 2014,como podemos identificar se estamos acessando site que utiliza protocolo HTTPS? 
 Basta digitar o site na barra de endereços do seu navegador (https://digitalcollege.com.br/) Você deveria ver:* <br/>
 
-![image](https://user-images.githubusercontent.com/112488985/192115723-a26e301e-20b8-4b2b-a78c-0ae692155654.png)
+![image](https://user-images.githubusercontent.com/112488985/192115723-a26e301e-20b8-4b2b-a78c-0ae692155654.png)?w=340' height="60px" width="80,16px" align="center"  /></a
 
 
  # *HTTP Vs HTTPS* 
-![image](https://user-images.githubusercontent.com/112488985/192115555-e1ac9836-c5eb-4962-9ed5-5be5a981c098.png)
- 
+ <img src='https://user-images.githubusercontent.com/112488985/192115555-e1ac9836-c5eb-4962-9ed5-5be5a981c098.png' height="340px" width="310,16px" align="left" alt='Screenshot-5'/></a>
  *__✓ Segurança__*: *O protocolo https se torna mais seguro devido o seu uso de criptografia com SSL atualmente versão 3.0 e TSL 1.2  ao enviar os dados para servidor* 
 
  *__✓ Confiabilidade__*: *A segurança extra incentiva os usuários a confiar em sua marca e site. Eles se sentirão mais à vontade para compartilhar dados confidenciais com você ou fazer compras em seu site.*
