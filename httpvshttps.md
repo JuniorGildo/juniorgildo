@@ -28,7 +28,7 @@ Digitando o site na barra de endereços do seu navegador (https://digitalcollege
  
 *__✓ Oportunidade para páginas AMP__*: *Somente sites com HTTPS podem usar a estrutura AMP (página móvel acelerada). AMPs são páginas ou sites somente para celular que carregam rapidamente, tornando-os mais otimizados para celular.* 
 
-# *Mudança de HTTP para HTTPS* <img alt="Coding Gif" src="https://agencianet.net.br/arquivos/41065758760d622b86871c_o_que_e_ssl.gif" height="240px" width="110,16px" align="right" alt='Screenshot-5'/></a>
+# *Mudança de HTTP para HTTPS* <img alt="Coding Gif" src="https://agencianet.net.br/arquivos/41065758760d622b86871c_o_que_e_ssl.gif" height="350px" width="0,16px" align="right" alt='Screenshot-5'/></a>
 
  
 *A migração de protocolo se dar atraves de um certificado,muitas empresas de hospedagem na web (como GoDaddy ou Namecheap) vendem esse certificado SSL. Caso você queira realizar esse tipo de migração por conta propria, certifique-se de pesquisar minuciosamente antes de fazer sua compra do certificado. 
