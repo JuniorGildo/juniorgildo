@@ -17,12 +17,13 @@ Basta digitar o site na barra de endereços do seu navegador (www.google.com.br)
 *Há um símbolo de cadeado ao lado do seu domínio *<br/>
 
 
- # *HTTP Vs HTTPS*
-## *Seguranca*: do site é importante mesmo se você não tiver um site de comércio eletrônico ou um site que lide com dados confidenciais. Um site seguro protege seus clientes contra roubo de dados e protege seu site contra violações de segurança que custam tempo e dinheiro para serem corrigidas. 
+ # *HTTP Vs HTTPS* <a href='https://www.infowester.com/historia_linux.php' target='blank'><img src='https://thumbs.gfycat.com/EasyCarelessAcornwoodpecker-mobile.mp4?w=340' height="60px" width="80,16px" align="center" /></a>
+ 
+### *Segurança* do site é importante mesmo se você não tiver um site de comércio eletrônico ou um site que lide com dados confidenciais. Um site seguro protege seus clientes contra roubo de dados e protege seu site contra violações de segurança que custam tempo e dinheiro para serem corrigidas.
 
-## *Confiabilidade*: a segurança extra incentiva os usuários a confiar em sua marca e site. Eles se sentirão mais à vontade para compartilhar dados confidenciais com você ou fazer compras em seu site.
+### *Confiabilidade*: a segurança extra incentiva os usuários a confiar em sua marca e site. Eles se sentirão mais à vontade para compartilhar dados confidenciais com você ou fazer compras em seu site.
 
-## *Impulsionar a classificação de SEO*: como o HTTPS torna a web mais segura e melhor para os usuários, o Google foi um grande defensor da mudança de HTTP para HTTPS em 2014. Eles também confirmaram que os sites que usam HTTPS têm o potencial de classificação mais alta do que aqueles que usam HTTP.
+### *Impulsionar a classificação de SEO*: como o HTTPS torna a web mais segura e melhor para os usuários, o Google foi um grande defensor da mudança de HTTP para HTTPS em 2014. Eles também confirmaram que os sites que usam HTTPS têm o potencial de classificação mais alta do que aqueles que usam HTTP.
 Oportunidade para páginas AMP: somente sites com HTTPS podem usar a estrutura AMP (página móvel acelerada). AMPs são páginas ou sites somente para celular que carregam rapidamente, tornando-os mais otimizados para celular. 
 
 Como mudar de HTTP para HTTPS
