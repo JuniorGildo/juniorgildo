@@ -12,7 +12,8 @@ Basta digitar o site na barra de endereços do seu navegador (www.google.com.br)
 ![image](https://user-images.githubusercontent.com/112488985/192112890-17a6dfbf-c3f6-41db-826f-0872608d88a6.png)
 
 
- # *HTTP Vs HTTPS* https://nordvpn.com/wp-content/uploads/http-vs-https_1200x675.jpg
+ # *HTTP Vs HTTPS* 
+![image](https://user-images.githubusercontent.com/112488985/192115555-e1ac9836-c5eb-4962-9ed5-5be5a981c098.png)
  
  *__✓ Segurança__*: *O protocolo https se torna mais seguro devido o seu uso de criptografia com SSL atualmente versão 3.0 e TSL 1.2  ao enviar os dados para servidor* 
 
