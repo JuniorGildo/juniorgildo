@@ -1,4 +1,4 @@
-# *HTTP*     <a href='https://www.infowester.com/historia_linux.php' target='blank'><img src='https://img.freepik.com/fotos-premium/ponto-de-exclamacao_2227-612.jpg?w=340' height="60px" width="80,16px" align="center"  /></a>
+# *HTTP*     <a href='https://pt.wikipedia.org/wiki/Hypertext_Transfer_Protocol' target='blank'><img src='https://img.freepik.com/fotos-premium/ponto-de-exclamacao_2227-612.jpg?w=340' height="60px" width="80,16px" align="center"  /></a>
 
 *HTTP é um protocolo de transferência que possibilita que as pessoas que inserem a URL do seu site na Web possam ver os conteúdos e dados que nele existem. A sigla vem do inglês Hypertext Transfer Protocol.
 Esse sistema é a base da comunicação que existe em toda a Internet em que os sites e conteúdos que tragam hiperlinks possam ser encontrados mais facilmente pelo público por meio de um clique do mouse ou um toque na tela.
@@ -12,15 +12,15 @@ Basta digitar o site na barra de endereços do seu navegador (www.google.com.br)
 ![image](https://user-images.githubusercontent.com/112488985/192112890-17a6dfbf-c3f6-41db-826f-0872608d88a6.png)
 
 
- # *HTTP Vs HTTPS*
+ # *HTTP Vs HTTPS* https://nordvpn.com/wp-content/uploads/http-vs-https_1200x675.jpg
  
- *__Segurança__*: *O protocolo https se torna mais seguro devido o seu uso de criptografia com SSL atualmente versão 3.0 e TSL 1.2  ao enviar os dados para servidor* 
+ *__✓ Segurança__*: *O protocolo https se torna mais seguro devido o seu uso de criptografia com SSL atualmente versão 3.0 e TSL 1.2  ao enviar os dados para servidor* 
 
- *__Confiabilidade__*: *A segurança extra incentiva os usuários a confiar em sua marca e site. Eles se sentirão mais à vontade para compartilhar dados confidenciais com você ou fazer compras em seu site.*
+ *__✓ Confiabilidade__*: *A segurança extra incentiva os usuários a confiar em sua marca e site. Eles se sentirão mais à vontade para compartilhar dados confidenciais com você ou fazer compras em seu site.*
 
- *__Impulsionar a classificação de SEO__*: *Como o HTTPS torna a web mais segura e melhor para os usuários, o Google foi um grande defensor da mudança de HTTP para HTTPS em 2014. Eles também confirmaram que os sites que usam HTTPS têm o potencial de classificação mais alta do que aqueles que usam HTTP.*
+ *__✓ Impulsionar a classificação de SEO__*: *Como o HTTPS torna a web mais segura e melhor para os usuários, o Google foi um grande defensor da mudança de HTTP para HTTPS em 2014. Eles também confirmaram que os sites que usam HTTPS têm o potencial de classificação mais alta do que aqueles que usam HTTP.*
  
-*__Oportunidade para páginas AMP__*: somente sites com HTTPS podem usar a estrutura AMP (página móvel acelerada). AMPs são páginas ou sites somente para celular que carregam rapidamente, tornando-os mais otimizados para celular.* 
+*__✓ Oportunidade para páginas AMP__*: somente sites com HTTPS podem usar a estrutura AMP (página móvel acelerada). AMPs são páginas ou sites somente para celular que carregam rapidamente, tornando-os mais otimizados para celular.* 
 
 # *Mudança de HTTP para HTTPS* 
 
