@@ -5,7 +5,7 @@ Esse sistema é a base da comunicação que existe em toda a Internet em que os 
 Qualquer servidor que você escolha para hospedar o site da sua empresa tem um programa projetado para receber solicitações HTTP. Portanto, o navegador que você usa é um cliente HTTP que envia solicitações constantemente ao seu servidor
 Assim, quando um usuário acessa ou digita a URL do seu site, o navegador cria uma solicitação HTTP na web e a envia ao endereço de IP indicado pela URL. Dessa forma, o servidor recebe essa solicitação e envia os arquivos associados que, nada mais são, do que os sites que acessamos na Internet <br/>*
 
-# *HTTPS* <a href='https://www.infowester.com/historia_linux.php' target='blank'><img src='https://retinacomunicacao.com/wp-content/uploads/2017/04/ssl-encryption-icon-png-0.jpg?w=340' height="60px" width="80,16px" align="center"  /></a>
+# *HTTPS* <a href='https://pt.wikipedia.org/wiki/Hyper_Text_Transfer_Protocol_Secure' target='blank'><img src='https://retinacomunicacao.com/wp-content/uploads/2017/04/ssl-encryption-icon-png-0.jpg?w=340' height="60px" width="80,16px" align="center"  /></a>
 *HTTPS usa uma conexão criptografada para se comunicar entre o servidor e o navegador. Um certificado SSL (secure sockets layer) protege os dados transferidos de serem roubados à medida que são trocados,criado em 1994, mas não foi amplamente usado como padrão até 2019. Sua popularidade se deve principalmente ao Google recomendar que os sites mudem para HTTPS em 2014,como podemos identificar se estamos acessando site que utiliza protocolo HTTPS? 
 Basta digitar o site na barra de endereços do seu navegador (www.google.com.br) Você deveria ver:* <br/>
 
