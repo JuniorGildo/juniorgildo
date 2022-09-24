@@ -2,7 +2,8 @@
 
 *HTTPS é a sigla para Hypertext Transfer Protocol Secure. Assim como o HTTP, seu principal objetivo é transferir dados de um servidor para seu navegador, para que você possa carregar sites. <br/>*
 # *Https*
-*HTTPS usa uma conexão criptografada para se comunicar entre o servidor e o navegador. Um certificado SSL (secure sockets layer) protege os dados transferidos de serem roubados à medida que são trocados,criado em 1994, mas não foi amplamente usado como padrão até 2019. Sua popularidade se deve principalmente ao Google recomendar que os sites mudem para HTTPS em 2014,como podemos identificar HTTPS na barra de endereços do seu navegador (por exemplo, https://www.semrush.com ).*
+*HTTPS usa uma conexão criptografada para se comunicar entre o servidor e o navegador. Um certificado SSL (secure sockets layer) protege os dados transferidos de serem roubados à medida que são trocados,criado em 1994, mas não foi amplamente usado como padrão até 2019. Sua popularidade se deve principalmente ao Google recomendar que os sites mudem para HTTPS em 2014,como podemos identificar HTTPS na barra de endereços do seu navegador (por exemplo, https://www.maps.google.com ).*<br/>
+<img alt="Coding Gif" src="https://www.wikihow.com/images_en/thumb/b/b3/Download-an-Image-from-Google-Maps-Step-1.jpg/v4-460px-Download-an-Image-from-Google-Maps-Step-1.jpg.webp" height="400" width="400" align="center"/>&nbsp;
 
 
 
