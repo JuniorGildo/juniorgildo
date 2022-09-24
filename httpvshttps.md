@@ -9,23 +9,18 @@ Assim, quando um usuário acessa ou digita a URL do seu site, o navegador cria u
 *HTTPS usa uma conexão criptografada para se comunicar entre o servidor e o navegador. Um certificado SSL (secure sockets layer) protege os dados transferidos de serem roubados à medida que são trocados,criado em 1994, mas não foi amplamente usado como padrão até 2019. Sua popularidade se deve principalmente ao Google recomendar que os sites mudem para HTTPS em 2014,como podemos identificar se estamos acessando site que utiliza protocolo HTTPS? 
 Basta digitar o site na barra de endereços do seu navegador (www.google.com.br) Você deveria ver:* <br/>
 
-![image](https://user-images.githubusercontent.com/112488985/192106539-d198294d-cccd-4b9c-b27c-3211aba71289.png)
-
-
-
-*Seu domínio é precedido por “https://”* <br/>
-*Há um símbolo de cadeado ao lado do seu domínio* <br/>
+![image](https://user-images.githubusercontent.com/112488985/192112890-17a6dfbf-c3f6-41db-826f-0872608d88a6.png)
 
 
  # *HTTP Vs HTTPS*
  
- *Segurança*: *O protocolo https se torna mais seguro devido o seu uso de criptografia com SSL atualmente versão 3.0 e TSL 1.2  ao enviar os dados para servidor* 
+ *__Segurança__*: *O protocolo https se torna mais seguro devido o seu uso de criptografia com SSL atualmente versão 3.0 e TSL 1.2  ao enviar os dados para servidor* 
 
- *Confiabilidade*: *A segurança extra incentiva os usuários a confiar em sua marca e site. Eles se sentirão mais à vontade para compartilhar dados confidenciais com você ou fazer compras em seu site.*
+ *__Confiabilidade__*: *A segurança extra incentiva os usuários a confiar em sua marca e site. Eles se sentirão mais à vontade para compartilhar dados confidenciais com você ou fazer compras em seu site.*
 
- *Impulsionar a classificação de SEO*: *Como o HTTPS torna a web mais segura e melhor para os usuários, o Google foi um grande defensor da mudança de HTTP para HTTPS em 2014. Eles também confirmaram que os sites que usam HTTPS têm o potencial de classificação mais alta do que aqueles que usam HTTP.*
+ *__Impulsionar a classificação de SEO__*: *Como o HTTPS torna a web mais segura e melhor para os usuários, o Google foi um grande defensor da mudança de HTTP para HTTPS em 2014. Eles também confirmaram que os sites que usam HTTPS têm o potencial de classificação mais alta do que aqueles que usam HTTP.*
  
-*Oportunidade para páginas AMP: somente sites com HTTPS podem usar a estrutura AMP (página móvel acelerada). AMPs são páginas ou sites somente para celular que carregam rapidamente, tornando-os mais otimizados para celular.* 
+*__Oportunidade para páginas AMP__*: somente sites com HTTPS podem usar a estrutura AMP (página móvel acelerada). AMPs são páginas ou sites somente para celular que carregam rapidamente, tornando-os mais otimizados para celular.* 
 
 # *Mudança de HTTP para HTTPS* 
 
