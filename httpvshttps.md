@@ -34,7 +34,7 @@ Se você não se sentir à vontade para fazer essas alterações técnicas, a ma
 
 # *Possíveis erros de implementação de HTTPS* <br/>
 
-*__✓ Conteúdo duplicado__*: *o Google trata as versões HTTP e HTTPS de um URL como duas páginas diferentes com conteúdo idêntico. Você precisará configurar um redirecionamento para indicar que eles são a mesma página. 
+*__✓ Conteúdo duplicado__*: *o Google trata as versões HTTP e HTTPS de um URL como duas páginas diferentes com conteúdo idêntico. Você precisará configurar um redirecionamento para indicar que eles são a mesma página.* 
 
 *__✓ Certificado SSL errado__*: *Existem vários tipos de certificados SSL, portanto, certifique-se de escolher o correto para comprar e instalar em seu site. Use um certificado de domínio único se tiver um domínio, um certificado de vários domínios se tiver mais de um domínio primário no mesmo endereço IP ou um certificado curinga se tiver um domínio primário e vários subdomínios. 
 Um problema de certificado SSL fará com que o navegador bloqueie o site e exiba uma mensagem de erro. Os usuários não se sentirão encorajados a continuar navegando no site. 
