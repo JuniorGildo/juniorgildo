@@ -4,6 +4,8 @@
 
 [![ LinkedIn Badge ](https://shields.io/badge/-JúniorGildo-blue?style=flate-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/j%C3%BAnior-gildo-729764214/)](https://www.linkedin.com/in/j%C3%BAnior-gildo-729764214/) </br>
 [![ Gmail ](https://shields.io/badge/-juniorcm1803@gmail.com-c14438?style=flate-square&logo=Gmail&logoColor=white&link=mailto:juniorcm1803@gmail.com)](mailto:juniorcm1803@gmail.com) </br>
+![ Freecodecamp ](https://img.shields.io/badge/-JuniorGildo-grey?style=flate-square&logo=freecodecamp&logoColor=green&link=https://www.freecodecamp.org/JuniorGildo/)](https://www.freecodecamp.org/JuniorGildo/) <br/>
+
 
 
 
