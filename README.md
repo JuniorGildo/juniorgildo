@@ -2,22 +2,16 @@
 *"The beginning of wisdow is the silence"* <br>
 
 
-### *Contact*  <img alt="Coding Gif" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Loading_icon.gif?20151024034921" height="60" width="80" align="center"/>
+### <img src="https://static.wixstatic.com/media/520c8c_e6ddf6b7c2a841ae90cb2bfcf4355ff5~mv2.gif" height="50px" width="50px" align="center"/>Contact
 [![ LinkedIn Badge ](https://shields.io/badge/-JúniorGildo-blue?style=flate-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/j%C3%BAnior-gildo-729764214/)](https://www.linkedin.com/in/j%C3%BAnior-gildo-729764214/) </br>
 [![ Gmail ](https://shields.io/badge/-juniorcm1803@gmail.com-c14438?style=flate-square&logo=Gmail&logoColor=white&link=mailto:juniorcm1803@gmail.com)](mailto:juniorcm1803@gmail.com) </br>
 [![ Freecodecamp Badge ](https://img.shields.io/badge/-JuniorGildo-grey?style=flate-square&logo=freecodecamp&logoColor=green&link=https://www.freecodecamp.org/JuniorGildo/)](https://www.freecodecamp.org/JuniorGildo/) <br/>
-<br/>
-<br/>
 
 
- ### *About me*<img src="https://i.pinimg.com/originals/08/1c/3c/081c3cfb86c4b3225b4bac4bc16e24dd.gif" height="60" width="80" align="left"/> 
+### <img src="https://i.pinimg.com/originals/08/1c/3c/081c3cfb86c4b3225b4bac4bc16e24dd.gif" width='40px' height='30px'>About me
 
-✓ 🌎 *Moro em Fortaleza, tenho 37 anos*   </br>
-✓ 🎓 *5° Semestre Redes e Computadores*   </br>
-✓ 💻 *Trabalho como Analista de Suporte*   </br>
-✓ 👨‍💻 *Estudando Programação Full Stack* </br>
-✓ ⚽ *Adoro Futebol,* 👪 *Família* </br>
-✓ *e* 👨‍💻 *Tecnologia* </br>
+*Hello my name is Hermenegildo Junior, I work as a support analyst, I'm 37 years old, I live in Fortaleza Ceara Brazil.
+I love football, family and technology, student of the Full Stack course at Digital College*
 
 ### *Conhecimentos & Ferramentas* 💻 
 ![ Linguangem SQL ](https://img.shields.io/badge/-LinguangemSQL-3ded97??style=flate&logo=MicrosoftSqlServer&logoColor=white) </br>
