@@ -1,16 +1,17 @@
-## *Hermenegildo Jr* <img alt="Coding Gif" src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b76118849e7b024333f0377101b6f9d71150022128261&rid=giphy.gif&ct=g" height="40" width="40" align="center"/>&nbsp;<br/> 
-*"O começo da sabedoria é o silêncio"* <br>
+## *Hermenegildo Júnior* <img alt="Coding Gif" src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b76118849e7b024333f0377101b6f9d71150022128261&rid=giphy.gif&ct=g" height="40" width="40" align="center"/>&nbsp;<br/> 
+*"The beginning of wisdow is the silence"* <br>
 
 
+### *Contact*  <img alt="Coding Gif" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Loading_icon.gif?20151024034921" height="60" width="80" align="center"/>
 [![ LinkedIn Badge ](https://shields.io/badge/-JúniorGildo-blue?style=flate-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/j%C3%BAnior-gildo-729764214/)](https://www.linkedin.com/in/j%C3%BAnior-gildo-729764214/) </br>
 [![ Gmail ](https://shields.io/badge/-juniorcm1803@gmail.com-c14438?style=flate-square&logo=Gmail&logoColor=white&link=mailto:juniorcm1803@gmail.com)](mailto:juniorcm1803@gmail.com) </br>
 [![ Freecodecamp Badge ](https://img.shields.io/badge/-JuniorGildo-grey?style=flate-square&logo=freecodecamp&logoColor=green&link=https://www.freecodecamp.org/JuniorGildo/)](https://www.freecodecamp.org/JuniorGildo/) <br/>
+<br/>
+<br/>
 
 
+ ### *About me*<img src="https://i.pinimg.com/originals/08/1c/3c/081c3cfb86c4b3225b4bac4bc16e24dd.gif" height="60" width="80" align="left"/> 
 
-
-
-### *Sobre mim* 🎯 
 ✓ 🌎 *Moro em Fortaleza, tenho 37 anos*   </br>
 ✓ 🎓 *5° Semestre Redes e Computadores*   </br>
 ✓ 💻 *Trabalho como Analista de Suporte*   </br>
