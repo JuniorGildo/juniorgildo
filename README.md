@@ -19,7 +19,7 @@
 ✓ *e* 👨‍💻 *Tecnologia* </br>
 
 ### *Conhecimentos & Ferramentas* 💻 
-![ Linguangem SQL ](https://img.shields.io/badge/-LinguangemSQL-7CFC00??style=plastic&logo=MicrosoftSqlServer&logoColor=black) </br>
+![ Linguangem SQL ](https://img.shields.io/badge/-LinguangemSQL-3ded97??style=plastic&logo=MicrosoftSqlServer&logoColor=black) </br>
 ![ MicrosoftSqlServer ](https://img.shields.io/badge/-SqlServer-FF0000?style=plastic&logo=MicrosoftSqlServer&logoColor=white)
 ![ Firebird ](https://img.shields.io/badge/-Firebird-FF5733?style=plastice&logo=firefox&logoColor=white)
 ![ Postgres ](https://img.shields.io/badge/-Postgres-008bb9?style=plastic&logo=PostGreSQL&logoColor=white) </br>
