@@ -13,7 +13,17 @@
 *Hello my name is Hermenegildo Junior, I work as a support analyst, I'm 37 years old, I live in Fortaleza Ceara Brazil.
 I love football, family and technology, student of the Full Stack course at Digital College*
 
-### *Conhecimentos & Ferramentas* 💻 
+### *Learning*
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flate-square&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flate-square&logo=javascript&logoColor=%23F7DF1E) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flate-square&logo=css3&logoColor=white) <br>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flate-square&logo=react&logoColor=%2361DAFB) <br>
+![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=flate-square&logo=dev.to&logoColor=white)
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?style=flate-square&logo=freecodecamp&logoColor=green)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flate-squaree&logo=visual-studio-code&logoColor=white)
+
+
+### <img src="https://pa1.narvii.com/6619/ff5cd1021576049fc68c7088374cac663883b63d_hq.gif" width='40px' height='30px'>*Knowledge and Tools*  
 ![ Linguangem SQL ](https://img.shields.io/badge/-LinguangemSQL-3ded97??style=flate&logo=MicrosoftSqlServer&logoColor=white) </br>
 ![ MicrosoftSqlServer ](https://img.shields.io/badge/-SqlServer-FF0000?style=flate-square&logo=MicrosoftSqlServer&logoColor=white)
 ![ Firebird ](https://img.shields.io/badge/-Firebird-FF5733?style=flate-square&logo=firefox&logoColor=white)
