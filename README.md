@@ -37,7 +37,5 @@ I love football, family and technology, student of the Full Stack course at Digi
 ### *Status* ⭐
 [![juniorgildo's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorgildo&show_icons=true&theme=codeSTACKr&title_color=00acee&icon_color=FF0000)](https://github.com/juniorgildo)
 
-### Projetos:
-[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=ff69b4)](https://www.freecodecamp.org/juniorgildo)
 
 <img height="160em" src="https://camo.githubusercontent.com/f5e96b0ecc328a2087249d83d8c3ec325c82e6aa565b82024bac9a9e2422cb8f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6761627269656c6170637573746f64696f266c61796f75743d636f6d70616374267468656d653d6275656679267469746c655f636f6c6f723d666636396234" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorGildo&amp;layout=compact&amp;theme=buefy&amp;title_color=ff69b4" style="max-width: 100%;">
